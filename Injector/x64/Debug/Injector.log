@@ -1,0 +1,10 @@
+﻿  main.cpp
+src\main.cpp(68): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+src\main.cpp(162): warning C4311: 'type cast': pointer truncation from 'LPCVOID' to 'long'
+src\main.cpp(162): warning C4302: 'type cast': truncation from 'LPCVOID' to 'long'
+src\main.cpp(167): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+src\main.cpp(199): warning C4311: 'type cast': pointer truncation from 'LPCVOID' to 'long'
+src\main.cpp(199): warning C4302: 'type cast': truncation from 'LPCVOID' to 'long'
+  Injector.vcxproj -> E:\Desktop\wow\x64\Debug\Injector.exe
+  Injector.vcxproj -> E:\Desktop\wow\x64\Debug\Injector.pdb (Full PDB)
